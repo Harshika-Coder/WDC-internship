@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Aman",
+    "branch": "CSE",
+    "semester": 3,
+    "average": "75.00",
+    "grade": "A"
+  },
+  {
+    "id": 2,
+    "name": "Ravi",
+    "branch": "ECE",
+    "semester": 2,
+    "average": "80.00",
+    "grade": "A"
+  },
+  {
+    "id": 3,
+    "name": "Priya",
+    "branch": "ME",
+    "semester": 4,
+    "average": "78.33",
+    "grade": "A"
+  },
+  {
+    "id": 4,
+    "name": "Sita",
+    "branch": "CSE",
+    "semester": 1,
+    "average": "75.00",
+    "grade": "A"
+  },
+  {
+    "id": 5,
+    "name": "Rahul",
+    "branch": "ECE",
+    "semester": 3,
+    "average": "85.00",
+    "grade": "A"
+  },
+  {
+    "id": 6,
+    "name": "Anita",
+    "branch": "ME",
+    "semester": 2,
+    "average": "75.00",
+    "grade": "A"
+  },
+  {
+    "id": 7,
+    "name": "Vikram",
+    "branch": "CSE",
+    "semester": 4,
+    "average": "85.00",
+    "grade": "A"
+  },
+  {
+    "id": 8,
+    "name": "Neha",
+    "branch": "ECE",
+    "semester": 1,
+    "average": "80.00",
+    "grade": "A"
+  },
+  {
+    "id": 9,
+    "name": "Karan",
+    "branch": "ME",
+    "semester": 3,
+    "average": "70.00",
+    "grade": "B"
+  },
+  {
+    "id": 10,
+    "name": "Sonal",
+    "branch": "CSE",
+    "semester": 2,
+    "average": "90.00",
+    "grade": "A"
+  },
+  {
+    "id": 11,
+    "name": "Rohit",
+    "branch": "ECE",
+    "semester": 4,
+    "average": "75.00",
+    "grade": "A"
+  },
+  {
+    "id": 12,
+    "name": "Pooja",
+    "branch": "ME",
+    "semester": 1,
+    "average": "85.00",
+    "grade": "A"
+  },
+  {
+    "id": 13,
+    "name": "Amit",
+    "branch": "CSE",
+    "semester": 3,
+    "average": "80.00",
+    "grade": "A"
+  },
+  {
+    "id": 14,
+    "name": "Sneha",
+    "branch": "ECE",
+    "semester": 2,
+    "average": "75.00",
+    "grade": "A"
+  },
+  {
+    "id": 15,
+    "name": "Manish",
+    "branch": "ME",
+    "semester": 4,
+    "average": "90.00",
+    "grade": "A"
+  }
+]

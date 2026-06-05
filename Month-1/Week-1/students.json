@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "Aman",
+    "branch": "CSE",
+    "semester": 3,
+    "marks": [70, 80, 75]
+  },
+    {
+        "id": 2,
+        "name": "Ravi",
+        "branch": "ECE",
+        "semester": 2,
+        "marks": [65, 85, 90]
+    },
+    {
+        "id": 3,
+        "name": "Priya",
+        "branch": "ME",
+        "semester": 4,
+        "marks": [80, 70, 85]
+    },
+    {
+        "id": 4,
+        "name": "Sita",
+        "branch": "CSE",
+        "semester": 1,
+        "marks": [75, 80, 70]
+    },
+    {
+        "id": 5,
+        "name": "Rahul",
+        "branch": "ECE",
+        "semester": 3,
+        "marks": [85, 90, 80]
+    },
+    {
+        "id": 6,
+        "name": "Anita",
+        "branch": "ME",
+        "semester": 2,
+        "marks": [70, 75, 80]
+    },
+    {
+        "id": 7,
+        "name": "Vikram",
+        "branch": "CSE",
+        "semester": 4,
+        "marks": [80, 85, 90]
+    },
+    {
+        "id": 8,
+        "name": "Neha",
+        "branch": "ECE",
+        "semester": 1,
+        "marks": [75, 80, 85]
+    },
+    {
+        "id": 9,
+        "name": "Karan",
+        "branch": "ME",
+        "semester": 3,
+        "marks": [65, 70, 75]
+    },
+    {
+        "id": 10,
+        "name": "Sonal",
+        "branch": "CSE",
+        "semester": 2,
+        "marks": [85, 90, 95]
+    },
+    {
+        "id": 11,
+        "name": "Rohit",
+        "branch": "ECE",
+        "semester": 4,
+        "marks": [70, 75, 80]
+    },
+    {
+        "id": 12,
+        "name": "Pooja",
+        "branch": "ME",
+        "semester": 1,
+        "marks": [80, 85, 90]
+    },
+    {
+        "id": 13,
+        "name": "Amit",
+        "branch": "CSE",
+        "semester": 3,
+        "marks": [75, 80, 85]
+    },
+    {
+        "id": 14,
+        "name": "Sneha",
+        "branch": "ECE",
+        "semester": 2,
+        "marks": [70, 75, 80]
+    },
+    {
+        "id": 15,
+        "name": "Manish",
+        "branch": "ME",
+        "semester": 4,
+        "marks": [85, 90, 95]
+    }
+]
